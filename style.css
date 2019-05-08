@@ -1,0 +1,43 @@
+.imgarticle{
+    width: 200px;
+}
+
+.navbar{
+    background-color: #0fbe7d;
+}
+
+.sidebarimg{
+    width: 100px;
+}
+
+@font-face {
+    font-family: Alex;
+    src: url(AlexBrush-Regular.ttf);
+}
+
+.logo{
+    font-family: Alex;
+    font-size: 50px!important;
+    color: white;
+}
+
+.navbar-brand{
+    font-size: 50px;
+}
+
+.article{
+    border-style: solid;
+    border-width: 10px 0px 5px 0px;
+}
+
+.navigation{
+    color: white;
+}
+
+.navigation:hover{
+    text-decoration: none;
+}
+
+.sidebararticletitle{
+    color: black;
+}
